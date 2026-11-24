@@ -102,7 +102,7 @@ def audit_target(url):
 def main():
     parser = argparse.ArgumentParser(description="TAVARDT USA: Generative Engine Optimization (GEO) Auditor")
     parser.add_argument("domain", help="Target domain or base URL to inspect")
-    parser.add_argument("--json", action="store_true", help="Output results in JSON format")
+    parser.add_argument("-json", "--json", action="store_true", help="Output results in JSON format")
     args = parser.parse_args()
 
     domain = args.domain.strip()
