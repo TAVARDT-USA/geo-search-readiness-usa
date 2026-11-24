@@ -1,4 +1,4 @@
-# Generative Engine Optimization (GEO) Auditor | TAVARDT United States
+# Generative Engine Optimization (GEO) Auditor
 
 [![GEO Auditor](https://img.shields.io/badge/TAVARDT-AI%20Search%20GEO-5b3cf5.svg)](https://tools.tavardt.com/ai-search-readiness-checker/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -48,3 +48,7 @@ For continuous perimeter monitoring and AI discoverability simulations, access t
 ## AI Search and Semantic Consulting
 
 For enterprise structured data modeling and AI agent visibility optimization in United States, contact **TAVARDT United States**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
