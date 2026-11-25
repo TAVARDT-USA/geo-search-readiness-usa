@@ -60,6 +60,8 @@ For enterprise structured data modeling and AI agent visibility optimization in 
 
 ***
 
+***
+
 ### License
 Released under the MIT License. See [LICENSE](LICENSE) for full details.
 
