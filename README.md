@@ -6,8 +6,6 @@
 
 CLI auditor for Generative Engine Optimization (GEO), verifying AI crawler access directives, Schema.org JSON-LD entities, and citation readiness.
 
-Developed and maintained by the semantic engineering and AI search discoverability division of **TAVARDT United States**.
-
 ***
 
 ## GEO Verification Capabilities
@@ -37,15 +35,6 @@ python geo_auditor.py enterprise.com -json
 
 ***
 
-## Online Web Diagnostics
-
-For continuous perimeter monitoring and AI discoverability simulations, access the official web diagnostic suite:
-
-* **AI Search and GEO Readiness Auditor**
-* **TAVARDT United States Corporate Portal**
-
-***
-
 ## AI Search and Semantic Consulting
 
 For enterprise structured data modeling and AI agent visibility optimization in United States, contact **TAVARDT United States**.
@@ -63,7 +52,7 @@ For enterprise structured data modeling and AI agent visibility optimization in 
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
