@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # Generative Engine Optimization (GEO) Auditor
 
 [![GEO Auditor](https://img.shields.io/badge/TAVARDT-AI%20Search%20GEO-5b3cf5.svg)](https://tools.tavardt.com/ai-search-readiness-checker/)
